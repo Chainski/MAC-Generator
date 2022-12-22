@@ -85,7 +85,7 @@ if __name__ == '__main__':
 
               """)
                   
-    Write.Print("\n [*] This program will generate random MAC addresses select a mode from the option below to continue \n", Colors.blue_to_white, interval=0.01)
+    Write.Print("\n [*] This program will generate random MAC addresses select a mode from the options below to continue \n", Colors.blue_to_white, interval=0.01)
     print()    
     mode = Write.Input(""" Select Mode:
     1. [*] Default: 00:1A:79:**:**:**
