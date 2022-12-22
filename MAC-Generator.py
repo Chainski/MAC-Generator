@@ -13,7 +13,6 @@ import pystyle
 from pystyle import *
 from time import time
 
-
 os.system('cls')
 os.system('mode con: cols=120 lines=50')
 ctypes.windll.kernel32.SetConsoleTitleW("MAC Generator")
