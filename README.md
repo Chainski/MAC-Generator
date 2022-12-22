@@ -35,11 +35,11 @@
 
 ## How to use ❓
 
-- [1] Open the program and ENTER a mode from the list provided
-- [2] Enter the amount of MAC Addresses you want
-- [3] The program will automatically generate the input 
-- [4] The Generated MAC Addresses will be saved in a text file in the current directory
-- [5] Done !
+- Open the program and ENTER a mode from the list provided
+- Enter the amount of MAC Addresses you want
+- The program will automatically generate the input 
+- The Generated MAC Addresses will be saved in a text file in the current directory
+- Done !
 
 ## Requirements 🔧
 
