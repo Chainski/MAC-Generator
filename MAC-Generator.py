@@ -1,4 +1,4 @@
-# https://github.com/Chainski/MACGenerator
+# https://github.com/Chainski/MAC-Generator
 from random import choice
 import traceback
 import os
