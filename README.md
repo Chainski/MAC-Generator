@@ -35,8 +35,8 @@
 
 ## How to use ❓
 
-- Open the program and ENTER a mode from the list provided
-- Enter the amount of MAC Addresses you want
+- Open [MAC-Generator.py](https://github.com/Chainski/MAC-Generator/blob/main/MAC-Generator.py) and ENTER a mode from the list provided
+- Enter the amount of MAC Addresses you want to generate 
 - The program will automatically generate the input 
 - The Generated MAC Addresses will be saved in a text file in the current directory
 - Done !
