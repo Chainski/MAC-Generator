@@ -11,7 +11,7 @@
    <img src="https://img.shields.io/github/issues/Chainski/MAC-Generator?color=blue">
    <img src="https://hits.sh/github.com/Chainski/MAC-Generator.svg?label=views&color=blue">
    <br>
-   <img src="https://img.shields.io/github/last-commit/Chainski/MAC-Generator?color=blue">
+   <img src="https://img.shields.io/github/last-commit/Chainski/MAC-Generator?style=flat&color=blue">
    <img src="https://img.shields.io/github/license/Chainski/MAC-Generator?color=blue">
    <br>
 </p>
