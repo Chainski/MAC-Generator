@@ -74,7 +74,6 @@ void generateMACs(int mode, const string& custom, int number) {
         }
         generatedMACs.insert(mac);
     }
-
     for (const auto& mac : generatedMACs) {
         fout << mac << endl;
     }
