@@ -35,7 +35,7 @@
 
 ## How to use ❓
 
-- Download `Mac-Generator.exe` from the [releases](https://github.com/Chainski/MAC-Generator/releases/download/v1.0/Mac-Generator.exe) 
+- Download `Mac-Generator.exe` from the [releases](https://github.com/Chainski/MAC-Generator/releases) 
 - Enter the amount of MAC Addresses you want to generate 
 - The program will automatically generate the input 
 - The Generated MAC Addresses will be saved in a text file in the current directory
