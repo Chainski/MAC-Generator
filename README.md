@@ -22,7 +22,7 @@
 
 
 ## Screenshot
-![preview](https://user-images.githubusercontent.com/96607632/209036071-a9f743bb-73fc-4915-b39e-cac648eada37.png)
+![preview](https://github.com/Chainski/MAC-Generator/blob/main/assets/preview.png)
 
 
 
