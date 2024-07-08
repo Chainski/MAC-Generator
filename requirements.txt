@@ -1,3 +1,0 @@
-pystyle
-colorama
-requests
