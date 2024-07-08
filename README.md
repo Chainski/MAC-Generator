@@ -41,22 +41,12 @@
 - The Generated MAC Addresses will be saved in a text file in the current directory
 - Done !
 
-## Requirements 🔧
-
-```
-pystyle
-colorama
-requests
-```
 
 ## DISCLAIMER !!! 
 
 **This tool is for educational use only, the author will not be held responsible for any misuse of this tool.**
 
 
-
 ## Ideas 💡
 
 Feel free to make a pull request on this repository to submit any idea!
-
-
