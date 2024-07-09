@@ -5,14 +5,14 @@
 <h1 align="center">
 </h1>
 <p align= "center">
-  <img src="https://img.shields.io/github/languages/top/Chainski/MAC-Generator?color=29A08C">
-   <img src="https://img.shields.io/github/stars/Chainski/MAC-Generator?style=flat&color=29A08C">
-   <img src="https://img.shields.io/github/forks/Chainski/MAC-Generator?style=flat&color=29A08C">
-   <img src="https://img.shields.io/github/issues/Chainski/MAC-Generator?color=29A08C">
-   <img src="https://hits.sh/github.com/Chainski/MAC-Generator.svg?label=views&color=29A08C">
+  <img src="https://img.shields.io/github/languages/top/Chainski/MAC-Generator?color=1E8AD4">
+   <img src="https://img.shields.io/github/stars/Chainski/MAC-Generator?style=flat&color=1E8AD4">
+   <img src="https://img.shields.io/github/forks/Chainski/MAC-Generator?style=flat&color=1E8AD4">
+   <img src="https://img.shields.io/github/issues/Chainski/MAC-Generator?color=1E8AD4">
+   <img src="https://hits.sh/github.com/Chainski/MAC-Generator.svg?label=views&color=1E8AD4">
    <br>
-   <img src="https://img.shields.io/github/last-commit/Chainski/MAC-Generator?style=flat&color=29A08C">
-   <img src="https://img.shields.io/github/license/Chainski/MAC-Generator?color=29A08C">
+   <img src="https://img.shields.io/github/last-commit/Chainski/MAC-Generator?style=flat&color=1E8AD4">
+   <img src="https://img.shields.io/github/license/Chainski/MAC-Generator?color=1E8AD4">
    <br>
 </p>
 
