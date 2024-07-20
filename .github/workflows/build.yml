@@ -3,6 +3,7 @@ name: Build Mac Generator
 on:
   push:
     branches: [ main ]
+
 jobs:
   build:
     strategy:
@@ -14,25 +15,29 @@ jobs:
       contents: write
       pull-requests: write
       repository-projects: write
+
     steps:
+    - name: Check out repository
+      uses: actions/checkout@v2
+
     - name: Configure MSVC and Build
       shell: cmd
       run: |
           call "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Auxiliary\\Build\\vcvars64.bat" 
           cl /EHsc /O2 /DNDEBUG /MD main.cpp /FeMacGenerator.exe /link /MACHINE:X64 
+
     - name: List output build directory
       shell: cmd
       run: |
         dir
-     # Delete-tag-and-release new
+
     - name: Delete-tag-and-release
       uses: dev-drprasad/delete-tag-and-release@v1.1
       with:
-        tag_name: MacGenerator #(required) - The name of the tag to delete. This is expected to be solely the tag name, not the name of a git reference.
-        delete_release: true #(optional) default: true - also delete all releases and their assets that are associated to the tag name
-        github_token: ${{ secrets.GITHUB_TOKEN }} # (required) - a GitHub token with write access to the repo where tags and releases will be searched and deleted
-        
-   # Create Release
+        tag_name: MacGenerator
+        delete_release: true
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+
     - name: Create Release
       id: create_release
       uses: actions/create-release@latest
@@ -45,7 +50,6 @@ jobs:
         draft: false
         prerelease: false
 
-    # Upload Asset
     - name: Upload Release Asset
       id: upload-release-asset-donut
       uses: actions/upload-release-asset@v1
