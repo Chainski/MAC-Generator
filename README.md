@@ -27,14 +27,12 @@
 
 
 ## Features ✅
-
 - Very fast
 - Noob-Friendly
 - Highly customizable
 - Automatically Removes Duplicates
 
 ## How to use ❓
-
 - Download `Mac-Generator.exe` from the [releases](https://github.com/Chainski/MAC-Generator/releases) 
 - Enter the amount of MAC Addresses you want to generate 
 - The program will automatically generate the input 
