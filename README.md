@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.postimg.cc/2jQjjXn7/iptv.png", width="200", height="200">
+<img src="https://github.com/Chainski/MAC-Generator/blob/main/assets/MG.png?raw=true", width="250", height="250">
 </p>
 
 <h1 align="center">
