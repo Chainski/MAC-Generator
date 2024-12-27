@@ -24,7 +24,8 @@ jobs:
       shell: cmd
       run: |
           call "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\VC\\Auxiliary\\Build\\vcvars64.bat" 
-          cl /EHsc /O2 /DNDEBUG /MT main.cpp /FeMacGenerator.exe /link /MACHINE:X64 
+          rc include\macgenerator.rc
+          cl /EHsc /O2 /DNDEBUG /MT main.cpp /FeMacGenerator.exe include\macgenerator.res /link /MACHINE:X64 
 
     - name: List output build directory
       shell: cmd
