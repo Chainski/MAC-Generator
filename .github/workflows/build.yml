@@ -52,7 +52,7 @@ jobs:
         prerelease: false
 
     - name: Upload Release Asset
-      id: upload-release-asset-donut
+      id: upload-release-asset-mac-generator
       uses: actions/upload-release-asset@v1
       env:
         GITHUB_TOKEN: ${{ secrets.github_token }}
