@@ -5,7 +5,6 @@
 <h1 align="center">
 </h1>
 <p align= "center">
-  <img src="https://img.shields.io/github/languages/top/Chainski/MAC-Generator?color=1E8AD4">
    <img src="https://img.shields.io/github/stars/Chainski/MAC-Generator?style=flat&color=1E8AD4">
    <img src="https://img.shields.io/github/forks/Chainski/MAC-Generator?style=flat&color=1E8AD4">
    <img src="https://img.shields.io/github/issues/Chainski/MAC-Generator?color=1E8AD4">
